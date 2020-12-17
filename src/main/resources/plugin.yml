@@ -1,0 +1,14 @@
+name: AimBot
+version: 1.0.0
+main: com.github.imalwayscoding.aimbot.AimBotPlugin
+
+commands:
+  startaimbot:
+    usage: /<command> <player>
+    description: start the aimbot
+  stopaimbot:
+    usage: /<command>
+    description: stop the aimbot
+  showaimbotuser:
+    usage: /<command>
+    description: show aimbot user
